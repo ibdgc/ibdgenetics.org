@@ -28,3 +28,6 @@ content:
 design:
   columns: '2'
 ---
+
+For all technical matters, please contact our [site admin](mailto:christopher.tastad@mssm.edu)
+
