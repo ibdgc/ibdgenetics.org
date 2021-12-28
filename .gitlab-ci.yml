@@ -1,14 +1,16 @@
-image: registry.gitlab.com/pages/hugo:latest
-
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 pages:
+  image:
+    name: klakegg/hugo:0.88.1-ext-alpine
+    entrypoint : ['']
+  before_script:
+    - git submodule update --init --recursive
   script:
-  - hugo
+    - hugo
   artifacts:
     paths:
-    - public
+      - public
   only:
-  - master
-
+    - master
