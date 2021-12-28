@@ -3,7 +3,7 @@ variables:
 
 pages:
   image:
-    name: klakegg/hugo:0.88.1-ext-ubuntu
+    name: klakegg/hugo:0.88.1-ext-alpine-ci
     entrypoint : ['']
   before_script:
     - git submodule update --init --recursive
