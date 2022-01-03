@@ -26,12 +26,12 @@ design:
 author: admin
 ---
 
-In recent years the International Inflammatory Bowel Disease Genetics Consortium (IIBDGC) has focused on collecting very large datasets from a diverse set of countries via world-wide collaboration. In addition to enabling the discovery of all these genes, we also try to dig a little deeper into what these associations actually mean. Our latest paper takes this further than we ever have before, involving analysts from a dozen research groups and using the latest statistical techniques to look for patterns across the 163 regions. 
+The International Inflammatory Bowel Disease Genetics Consortium (IIBDGC) focuses on collecting large datasets through participating research groups across a broad set of countries, all working in collaboration. In addition to enabling wider genetics discovery, we also attempt to explore what functional associations can be derived within diverse populations. Our current work takes this further, involving analysts from dozens of research groups using the latest statistical techniques to look for patterns across 250+ regions. 
 
 ![](ibdgc_international.png)
 
 # Groups involved
-We extend an open invitation to any group that wishes to join our consortium. We suggest as a minimum that interested groups have high quality genomic DNA and phenotypic information from 500 patients with a confirmed diagnosis of IBD and 500 population-matched healthy controls. Of course, if you have already generated genome-wide data on these individuals that would be welcome. If you are interested in joining the consortium please contact john.rioux@inflammgen.org.
+We extend an open invitation to any group that wishes to join our consortium. If you are interested in joining the consortium please contact john.rioux@inflammgen.org.
 
 Members of the IIBDGC collectively sign a shared MOU.
 - {{% staticref "uploads/IIBDGC_MOU_28jan2019_with bookmarks[61].pdf" "newtab" %}}Blank MOU{{% /staticref %}}
@@ -39,13 +39,13 @@ Members of the IIBDGC collectively sign a shared MOU.
 # Members
 **Regional Consortia**
 
-- [UKIBDGC](http://www.ibdresearch.co.uk/)
-- [NIDDK IBDGC](https://ibdgc.org)
 - [ANZIBDC](https://anzibdc.com/)
+- [NIDDK IBDGC](https://ibdgc.org)
 - [SPARC IBD](https://www.crohnscolitisfoundation.org/research/current-research-initiatives/sparc-ibd)
+- [UKIBDGC](http://www.ibdresearch.co.uk/)
 
 <details>
-  <summary><strong>Signatories</strong></summary>
+  <summary><strong>Signatory Investigators</strong></summary>
 
 | Name                   | Affiliation                                                                                                               |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -91,37 +91,5 @@ Members of the IIBDGC collectively sign a shared MOU.
 | Tim Orchard            | Imperial College London                                                                                                   |
 | Uroš Potočnik          | University of Maribor, Faculty of Medicine, Center for Human Molecular Genetics and Pharmacogenomics                      |
 | Vibeke Andersen        | Focused Research Unit for Molecular Diagnostic and Clinical Research, Hospital of Southern Jutland                        |
-</details>
-
-# About IBD
-
-<details>
-  <summary><strong>What is inflammatory bowel disease?</strong></summary>
-
-There are two main forms of inflammatory bowel disease (IBD), Crohn's disease and ulcerative colitis (UC). Crohn's can affect any part of the bowel, from the mouth to the anus; inflammatory disease frequently progresses to cause narrowings (strictures) and fistulae in the bowel. UC is restricted to the colon but has two important consequences: severe attacks with a high risk of urgent surgery, and bowel cancer.
-</details>
-
-<details>
-  <summary><strong>Inflammatory bowel disease is common and typically affects young people</strong></summary>
-
-These conditions are now common, affecting approximately 1 in 250 people in Western Europe, North America and Australasia. Just as the inflammatory bowel diseases were very uncommon in the developed world in the first half of the 20th century, the incidence is now increasing in the developing world as these countries adopt a more Western lifestyle. Crohn's disease and UC typically affect young people in the second or third decade of life, but can present at any age.
-</details>
-
-<details>
-  <summary><strong>There is no known cure for inflammatory bowel disease</strong></summary>
-
-There is no known cure with the exception of major surgery to remove the colon (colectomy) in UC. Powerful immunosuppressant medicines are frequently required (corticosteroids, azathioprine / mercaptopurine, methotrexate, anti-TNF agents), as is major surgery. The socio-economic burden of IBD is substantial, with affects on schooling, employment prospects and psychological health.
-</details>
-
-<details>
-  <summary><strong>What is the cause of inflammatory bowel disease?</strong></summary>
-
-We still do not know what causes Crohn's disease and UC to develop. We know that excessive and chronic bowel inflammation tends to occur as a reaction to gut bacteria in genetically susceptible individuals. As such, about half of the risk of developing Crohn's disease is determined by our genetic makeup; the rest by environmental factors - bacteria, diet and cigarette smoking are probably key players.
-</details>
-
-<details>
-  <summary><strong>Will genetic studies give us the answer?</strong></summary>
-
-Crohn's disease and UC have been at the forefront of complex disease genetics over the past 10 years. Notable achievements / milestones (see timeline) include the identification of NOD2 as a Crohn's disease gene in 2001, early success using GWAS technology and more recently imputation and meta-analyses to combine the power of multiple individual GWAS. The massive collaborative efforts of the IIBDGC underpin this success. With approximately 40,000 DNA samples from patients with IBD and 20,000 healthy controls, the IIBDGC have now discovered 99 definite IBD susceptibility loci. In all, the 71 Crohn's disease and 47 UC loci account for ~23% and ~16% of disease heritability respectively. The fine-mapping efforts underway should dramatically increase resolution at disease loci and close the large gap of missing heritability. Meanwhile, there is a massive translational effort now underway to ensure that this success in gene discovery is converted into direct clinical application. Key insights into disease biology have already resulted from gene discovery (e.g. autophagy in Crohn's disease, defective barrier function in UC and IL23 signalling in IBD and immune-mediated disease generally). It is anticipated that of the many novel drug targets identified by gene discovery, a few will ultimately result in improved therapeutics for these devastating conditions. Improved diagnostics, prognostics and therapeutics are all goals, with a view to personalised therapy in future.
 </details>
 
