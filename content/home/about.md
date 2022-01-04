@@ -85,7 +85,6 @@ Members of the IIBDGC collectively sign a shared MOU.
 | Maria Abreu             | Division of Gastroenterology, Department of Medicine, Leonard M. Miller School of Medicine, University of Miami            |
 | Mark Daly               | The Broad Institute                                                                                                        |
 | Mark Silverberg         | Mount Sinai Hospital, Toronto ON                                                                                           |
-| Michel George           | GIGA-R Medical Genomics, ULg                                                                                               |
 | Miles Parkes            | Addenborookes Hospital                                                                                                     |
 | Ramnik Xavier           | Broad Institute                                                                                                            |
 | Reza Malekzadeh         | DDRI, Tehran University of Medical Sciences                                                                                |
