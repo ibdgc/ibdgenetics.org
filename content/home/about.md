@@ -13,7 +13,7 @@ headless: true
 weight: 20
 
 title: About
-subtitle: The global network of IBD consortia
+subtitle: A global network of IBD consortia
 
 design:
   background: 
@@ -26,7 +26,11 @@ design:
 author: admin
 ---
 
-The International Inflammatory Bowel Disease Genetics Consortium (IIBDGC) focuses on collecting large datasets through participating research groups across a broad set of countries, all working in collaboration. In addition to enabling wider genetics discovery, we also attempt to explore what functional associations can be derived within diverse populations. Our current work takes this further, involving analysts from dozens of research groups using the latest statistical techniques to look for patterns across 250+ regions. 
+The International Inflammatory Bowel Disease Genetics Consortium (IIBDGC) is a global network of hundreds of researchers from > 20 countries across four continents.
+
+The mission of the IIBDGC is to (1) identify the genetic risk factors for the inflammatory bowel diseases (IBD), Crohn’s disease (CD), ulcerative colitis (UC), and related clinical phenotypes, (2) to determine how these risk factors interact with non-genetic risk factors impact on an individual’s risk to develop IBD, CD, UC and related phenotypes, (3) perform these studies in a collaborative fashion and to broadly share the results with the international scientific community in a responsible fashion.
+
+Our current projects bring together genome-wide genotyping data and whole exome/whole genome sequencing data for over 75,000 patients with IBD. For more information on how to join the IIBDGC, please consult our Memorandum of Understanding (MOU).
 
 ![](ibdgc_international.png)
 
