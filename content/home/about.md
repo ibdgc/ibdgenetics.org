@@ -43,7 +43,6 @@ Members of the IIBDGC collectively sign a shared MOU.
 # Members
 **Regional Consortia**
 
-- [ANZIBDC](https://anzibdc.com/)
 - [NIDDK IBDGC](https://ibdgc.org)
 - [SPARC IBD](https://www.crohnscolitisfoundation.org/research/current-research-initiatives/sparc-ibd)
 - [UKIBDGC](http://www.ibdresearch.co.uk/)
