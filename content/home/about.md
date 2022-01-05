@@ -26,6 +26,8 @@ design:
 author: admin
 ---
 
+# Test
+
 The International Inflammatory Bowel Disease Genetics Consortium (IIBDGC) is a global network of hundreds of researchers from > 20 countries across four continents.
 
 The mission of the IIBDGC is to (1) identify the genetic risk factors for the inflammatory bowel diseases (IBD), Crohn’s disease (CD), ulcerative colitis (UC), and related clinical phenotypes, (2) to determine how these risk factors interact with non-genetic risk factors impact on an individual’s risk to develop IBD, CD, UC and related phenotypes, (3) perform these studies in a collaborative fashion and to broadly share the results with the international scientific community in a responsible fashion.
