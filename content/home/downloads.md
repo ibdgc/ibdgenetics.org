@@ -47,17 +47,12 @@ design:
   flip_alt_rows: false
 ---
 
-{{% callout note %}}
-Note: dataset download links will not be active in preview due to file size limits on gitlab free accounts
-{{% /callout %}}
-
 ### Datasets
-- {{% staticref "uploads/iibdgc-trans-ancestry-filtered-summary-stats.tgz" "newtab" %}}Latest combined GWAS and Immunochip trans-ancestry summary statistics{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/international-multiple-sclerosis-genetics-consortium-association-2015" >}}) [$^{ref.}$]({{< relref "/publication/international-inflammatory-bowel-disease-genetics-consortium-high-density-2015" >}})
+- [Latest combined GWAS and Immunochip trans-ancestry summary statistics](https://www.dropbox.com/s/ttuc6s7tv26voq3/iibdgc-trans-ancestry-filtered-summary-stats.tgz?dl=0)[$^{ref.}$]({{< relref "/publication/international-multiple-sclerosis-genetics-consortium-association-2015" >}}) [$^{ref.}$]({{< relref "/publication/international-inflammatory-bowel-disease-genetics-consortium-high-density-2015" >}})
 
 ##### Old
 - {{% staticref "uploads/gwas_ichip_meta_release.txt.gz" "newtab" %}}Combined GWAS and Immunochip summary statistics{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/the-international-ibd-genetics-consortium-iibdgc-hostmicrobe-2012" >}})
 - {{% staticref "uploads/cd-meta.txt.gz" "newtab" %}}Crohn's disease meta-analysis summary statistics{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/franke-genome-wide-2010" >}})
-- {{% staticref "uploads/" "newtab" %}}Crohn's disease meta-analysis UCSC custom track{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/franke-genome-wide-2010" >}})
 - {{% staticref "uploads/ucmeta-sumstats.txt.gz" "newtab" %}}Ulcerative colitis meta-analysis summary statistics{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/anderson-meta-analysis-2011" >}})
 
 ### Documents
