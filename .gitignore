@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 public/
 resources/
+=======
+/public
+/resources
+*.swp
+iibdgc-trans-ancestry-filtered-summary-stats.tgz
+>>>>>>> e4fcb491a733cc93eb2687bbec8a6dac5f299c7d
