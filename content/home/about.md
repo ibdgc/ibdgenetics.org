@@ -35,7 +35,7 @@ Our current projects bring together genome-wide genotyping data and whole exome/
 ![](ibdgc_international.png)
 
 # Groups involved
-We extend an open invitation to any group that wishes to join our consortium. If you are interested in joining the consortium please contact john.rioux@inflammgen.org.
+We extend an open invitation to any group that wishes to join our consortium. If you are interested in joining the consortium please contact ibdgc-dcc@mssm.edu.
 
 Members of the IIBDGC collectively sign a shared MOU.
 - {{% staticref "uploads/IIBDGC_MOU_28jan2019_with bookmarks[61].pdf" "newtab" %}}Blank MOU{{% /staticref %}}
