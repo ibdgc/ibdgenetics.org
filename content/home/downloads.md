@@ -56,7 +56,7 @@ design:
 - {{% staticref "uploads/ucmeta-sumstats.txt.gz" "newtab" %}}Ulcerative colitis meta-analysis summary statistics{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/anderson-meta-analysis-2011" >}})
 
 ### Documents
-- {{% staticref "uploads/IIBDGC_MOU_28jan2019_with bookmarks.pdf" "newtab" %}}Blank MOU{{% /staticref %}}
+- {{% staticref "uploads/IIBDGC_MOU_28jan2019_with_bookmarks.pdf" "newtab" %}}Blank MOU{{% /staticref %}}
 - {{% staticref "uploads/International_IBD_ProposalForm_v2021.docx" "newtab" %}}Project Proposal Form{{% /staticref %}}
 - {{% staticref "uploads/DNA_genotyping_manifest_template.xlsx" "newtab" %}}Genotyping Manifest Template{{% /staticref %}}
 - {{% staticref "uploads/DNA_for_genotyping_updatedOct2021.docx" "newtab" %}}Genotyping Prep Protocol{{% /staticref %}}
