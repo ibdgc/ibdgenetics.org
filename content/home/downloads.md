@@ -56,7 +56,15 @@ design:
 - {{% staticref "uploads/ucmeta-sumstats.txt.gz" "newtab" %}}Ulcerative colitis meta-analysis summary statistics{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/anderson-meta-analysis-2011" >}})
 
 ### Documents
-- {{% staticref "uploads/IIBDGC_MOU_28jan2019_with_bookmarks.pdf" "newtab" %}}Blank MOU{{% /staticref %}}
-- {{% staticref "uploads/International_IBD_ProposalForm_v2021.docx" "newtab" %}}Project Proposal Form{{% /staticref %}}
+- [Project Proposal Form](https://forms.gle/f2ZB7yjgpp138gmh9)
 - {{% staticref "uploads/DNA_genotyping_manifest_template.xlsx" "newtab" %}}Genotyping Manifest Template{{% /staticref %}}
 - {{% staticref "uploads/DNA_for_genotyping_updatedOct2021.docx" "newtab" %}}Genotyping Prep Protocol{{% /staticref %}}
+- [MOU Web Form](https://forms.gle/ZAmmJ2Ht3eeardfY6)
+- {{% staticref "uploads/IIBDGC_MOU_28jan2019_with_bookmarks.pdf" "newtab" %}}Complete MOU{{% /staticref %}}
+
+**MOU Instructions:**
+
+1. Complete the [MOU Web Form](https://forms.gle/ZAmmJ2Ht3eeardfY6).
+2. Sign the received copy of the completed form at your provided email address.
+3. Send the signed copy to ibdgc-dcc@mssm.edu.
+
