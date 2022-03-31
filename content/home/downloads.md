@@ -57,8 +57,6 @@ design:
 
 ### Documents
 - [Project Proposal Form](https://forms.gle/f2ZB7yjgpp138gmh9)
-- {{% staticref "uploads/DNA_genotyping_manifest_template.xlsx" "newtab" %}}Genotyping Manifest Template{{% /staticref %}}
-- {{% staticref "uploads/DNA_for_genotyping_updatedOct2021.docx" "newtab" %}}Genotyping Prep Protocol{{% /staticref %}}
 - [MOU Web Form](https://forms.gle/ZAmmJ2Ht3eeardfY6)
 - {{% staticref "uploads/IIBDGC_MOU_28jan2019_with_bookmarks.pdf" "newtab" %}}Complete MOU{{% /staticref %}}
 
