@@ -69,7 +69,7 @@ design:
 
 **DUA Instructions:**
 {{% callout note %}}
-All individuals seeking to access IIBDGC data need to complete the DUA
+All individuals seeking to access pre-publication summary statistics need to submit a signed DUA
 {{% /callout %}}
 
 1. Complete the {{% staticref "uploads/ibdgc-dua-v2.1-clean.pdf" "newtab" %}}International DUA{{% /staticref %}}.
