@@ -66,3 +66,11 @@ design:
 2. Sign the received copy of the completed form at your provided email address.
 3. Send the signed copy to ibdgc-dcc@mssm.edu.
 
+**DUA Instructions:**
+{{% callout note %}}
+All individuals seeking to access summary statistics need to complete the DUA.
+{{% /callout %}}
+
+1. Complete the {{% staticref "uploads/ibdgc-dua-v2.1-clean.pdf" "newtab" %}}International DUA{{% /staticref %}}.
+2. Send the signed copy to ibdgc-dcc@mssm.edu.
+
