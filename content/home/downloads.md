@@ -59,6 +59,7 @@ design:
 - [Project Proposal Form](https://forms.gle/f2ZB7yjgpp138gmh9)
 - [MOU Web Form](https://forms.gle/ZAmmJ2Ht3eeardfY6)
 - {{% staticref "uploads/IIBDGC_MOU_28jan2019_with_bookmarks.pdf" "newtab" %}}Complete MOU{{% /staticref %}}
+- {{% staticref "uploads/ibdgc-dua-v2.1-clean.pdf" "newtab" %}}International DUA{{% /staticref %}}
 
 **MOU Instructions:**
 
@@ -68,7 +69,7 @@ design:
 
 **DUA Instructions:**
 {{% callout note %}}
-All individuals seeking to access summary statistics need to complete the DUA.
+All individuals seeking to access IIBDGC data need to complete the DUA
 {{% /callout %}}
 
 1. Complete the {{% staticref "uploads/ibdgc-dua-v2.1-clean.pdf" "newtab" %}}International DUA{{% /staticref %}}.
