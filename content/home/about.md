@@ -35,7 +35,11 @@ Our current projects bring together genome-wide genotyping data and whole exome/
 ![](ibdgc_international.png)
 
 # Groups involved
+<<<<<<< HEAD
 We extend an open invitation to any group that wishes to join our consortium. If you are interested in joining the consortium please contact contact@ibdgenetics.org.
+=======
+We extend an open invitation to any group that wishes to join our consortium. If you are interested in joining the consortium please contact ibdgc-dcc@mssm.edu.
+>>>>>>> f44d19aae7eda6af60e059116f8ce52a05bc0299
 
 Members of the IIBDGC collectively sign a shared MOU.
 
