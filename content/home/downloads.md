@@ -65,7 +65,7 @@ design:
 
 1. Complete the [MOU Web Form](https://forms.gle/ZAmmJ2Ht3eeardfY6).
 2. Sign the received copy of the completed form at your provided email address.
-3. Send the signed copy to ibdgc-dcc@mssm.edu.
+3. Send the signed copy to contact@ibdgenetics.org.
 
 **DUA Instructions:**
 {{% callout note %}}
@@ -73,5 +73,5 @@ All individuals seeking to access pre-publication summary statistics need to sub
 {{% /callout %}}
 
 1. Complete the {{% staticref "uploads/ibdgc-dua-v2.1-clean.pdf" "newtab" %}}International DUA{{% /staticref %}}.
-2. Send the signed copy to ibdgc-dcc@mssm.edu.
+2. Send the signed copy to contact@ibdgenetics.org.
 
