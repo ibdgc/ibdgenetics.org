@@ -64,8 +64,8 @@ design:
 **MOU Instructions:**
 
 1. Complete the [MOU Web Form](https://forms.gle/ZAmmJ2Ht3eeardfY6).
-2. Sign the received copy of the completed form at your provided email address.
-3. Send the signed copy to contact@ibdgenetics.org.
+1. Sign the received copy of the completed form at your provided email address.
+1. Send the signed copy to contact@ibdgenetics.org.
 
 **DUA Instructions:**
 {{% callout note %}}
@@ -73,7 +73,7 @@ All individuals seeking to access pre-publication summary statistics need to sub
 {{% /callout %}}
 
 1. Download the form [here](https://drive.google.com/file/d/10ZSvrUP2QKWwOv1XpeGk9AI9cn9dVbn2/view?usp=sharing).
-1. Complete and sign the document using a pdf editing tool (e.g. adobe acrobat, apple preview).
-1. Initial the "IIBDGC Internal Use Only" appendix if applicable (i.e. when requesting access to pre-publication data).
+1. Complete the document using a pdf editing tool (e.g. adobe acrobat, apple preview).
+    1. Initial the "IIBDGC Internal Use Only" appendix if applicable (i.e. when requesting access to pre-publication data).
 1. Send the signed copy to requests@ibdgc.org.
 
