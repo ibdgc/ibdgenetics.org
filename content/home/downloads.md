@@ -72,6 +72,8 @@ design:
 All individuals seeking to access pre-publication summary statistics need to submit a signed DUA
 {{% /callout %}}
 
-1. Complete the {{% staticref "uploads/ibdgc-dua-v2.1-clean.pdf" "newtab" %}}International DUA{{% /staticref %}}.
-2. Send the signed copy to contact@ibdgenetics.org.
+1. Download the form [here](https://drive.google.com/file/d/10ZSvrUP2QKWwOv1XpeGk9AI9cn9dVbn2/view?usp=sharing).
+1. Complete and sign the document using a pdf editing tool (e.g. adobe acrobat, apple preview).
+1. Initial the "IIBDGC Internal Use Only" appendix if applicable (i.e. when requesting access to pre-publication data).
+1. Send the signed copy to requests@ibdgc.org.
 
