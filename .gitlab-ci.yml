@@ -1,7 +1,12 @@
+stages:
+  - build
+  - deploy
+
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
-pages:
+build:
+  stage: build
   image:
     name: klakegg/hugo:0.88.1-ext-alpine-ci
     entrypoint : ['']
@@ -14,3 +19,17 @@ pages:
       - public
   only:
     - production
+
+deploy:
+  stage: deploy
+  dependencies:
+    - build
+  image:
+    name: banst/awscli
+    entrypoint: [""]
+  script:
+    - aws configure set region us-east-1
+    - aws s3 sync public s3://$S3_BUCKET/ --delete
+  only:
+    - production
+
