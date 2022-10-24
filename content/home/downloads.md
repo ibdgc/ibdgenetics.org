@@ -56,8 +56,8 @@ design:
 - {{% staticref "uploads/ucmeta-sumstats.txt.gz" "newtab" %}}Ulcerative colitis meta-analysis summary statistics{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/anderson-meta-analysis-2011" >}})
 
 ### Documents
-- [Project Proposal Form](https://forms.gle/f2ZB7yjgpp138gmh9)
-- [MOU Web Form](https://forms.gle/ZAmmJ2Ht3eeardfY6)
+- [Project Proposal Form](https://forms.gle/4oLAJ8Q5bf31p3Eh9)
+- [MOU Web Form](https://forms.gle/aMJQ6bou9cwZGiGy5)
 - {{% staticref "uploads/IIBDGC_MOU_28jan2019_with_bookmarks.pdf" "newtab" %}}Complete MOU{{% /staticref %}}
 - {{% staticref "uploads/ibdgc-dua-v2.1-clean.pdf" "newtab" %}}International DUA{{% /staticref %}}
 
