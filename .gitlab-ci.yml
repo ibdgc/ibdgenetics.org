@@ -17,8 +17,8 @@ build:
   artifacts:
     paths:
       - public
-  #only:
-  #  - production
+  only:
+    - production
 
 deploy:
   stage: deploy
@@ -29,7 +29,7 @@ deploy:
     entrypoint: [""]
   script:
     - aws configure set region us-east-1
-    - aws s3 cp public s3://$S3_BUCKET/ --recursive --include "*" 
-  #only:
-  #  - production
+    - aws s3 sync public s3://$S3_BUCKET/ --delete
+  only:
+    - production
 

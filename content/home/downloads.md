@@ -56,7 +56,24 @@ design:
 - {{% staticref "uploads/ucmeta-sumstats.txt.gz" "newtab" %}}Ulcerative colitis meta-analysis summary statistics{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/anderson-meta-analysis-2011" >}})
 
 ### Documents
-- {{% staticref "uploads/IIBDGC_MOU_28jan2019_with_bookmarks.pdf" "newtab" %}}Blank MOU{{% /staticref %}}
-- {{% staticref "uploads/International_IBD_ProposalForm_v2021.docx" "newtab" %}}Project Proposal Form{{% /staticref %}}
-- {{% staticref "uploads/DNA_genotyping_manifest_template.xlsx" "newtab" %}}Genotyping Manifest Template{{% /staticref %}}
-- {{% staticref "uploads/DNA_for_genotyping_updatedOct2021.docx" "newtab" %}}Genotyping Prep Protocol{{% /staticref %}}
+- [Project Proposal Form](https://forms.gle/4oLAJ8Q5bf31p3Eh9)
+- [MOU Web Form](https://forms.gle/aMJQ6bou9cwZGiGy5)
+- {{% staticref "uploads/IIBDGC_MOU_28jan2019_with_bookmarks.pdf" "newtab" %}}Complete MOU{{% /staticref %}}
+- {{% staticref "uploads/ibdgc-dua-v2.1-clean.pdf" "newtab" %}}International DUA{{% /staticref %}}
+
+**MOU Instructions:**
+
+1. Complete the [MOU Web Form](https://forms.gle/aMJQ6bou9cwZGiGy5).
+1. Sign the received copy of the completed form at your provided email address.
+1. Send the signed copy to contact@ibdgenetics.org.
+
+**DUA Instructions:**
+{{% callout note %}}
+All individuals seeking to access pre-publication summary statistics need to submit a signed DUA
+{{% /callout %}}
+
+1. Download the form [here](https://drive.google.com/file/d/10ZSvrUP2QKWwOv1XpeGk9AI9cn9dVbn2/view?usp=sharing).
+1. Complete the document using a pdf editing tool (e.g. adobe acrobat, apple preview).
+    1. Initial the "IIBDGC Internal Use Only" appendix if applicable (i.e. when requesting access to pre-publication data).
+1. Send the signed copy to requests@ibdgc.org named **ibdgc-dua-v2.2_firstname-lastname.pdf**.
+

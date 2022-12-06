@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: john.rioux@inflammgen.org
+email: contact@ibdgenetics.org
 
 # Site header
 
@@ -71,9 +71,9 @@ docs_section_pager: true
 sharing: false
 copyright_license:
   enable: true
-  allow_derivatives: false
+  allow_derivatives: true
   share_alike: true
-  allow_commercial: false
+  allow_commercial: true
   notice: 'Except as otherwise noted, this work is licensed under {license}, and code
     samples are licensed under the MIT License.'
 abstract_length: 135

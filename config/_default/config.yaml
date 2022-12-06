@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: IIBDGC # Website name
   #baseurl: 'https://ctastad.gitlab.io/iibdgc-website/' # Website URL
 relativeURLs: true
 copyright: 'Contents © {year} | A service hosted at the University of Chicago by the NIDDK IBDGC' # Footer text, e.g. '© {year} Me'
