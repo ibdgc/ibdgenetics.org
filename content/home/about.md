@@ -59,6 +59,7 @@ Members of the IIBDGC collectively sign a shared MOU.
 | Caren Heller            | Crohn's & Colitis Foundation                                                                                               |
 | Charles Bernstein       | University of Manitoba IBD Clinical and Research Centre                                                                    |
 | Christopher Moran       | MassGeneral Hospital for Children                                                                                          |
+| David Ellinghaus        | Christian-Albrechts-University Kiel                                                                                        |
 | David Okou              | Emory University                                                                                                           |
 | Denis Franchimont       | Department of Gastroenterology, Erasme Hospital, Free University of Brussels, Belgium                                      |
 | Dermot Mcgovern         | Cedars-Sinai                                                                                                               |
