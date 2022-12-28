@@ -49,7 +49,7 @@ design:
 
 ### Datasets
 - [Latest combined GWAS and Immunochip trans-ancestry summary statistics](https://www.dropbox.com/s/ttuc6s7tv26voq3/iibdgc-trans-ancestry-filtered-summary-stats.tgz?dl=0)[$^{ref.}$]({{< relref "/publication/international-multiple-sclerosis-genetics-consortium-association-2015" >}}) [$^{ref.}$]({{< relref "/publication/international-inflammatory-bowel-disease-genetics-consortium-high-density-2015" >}})
-- [East Asian GWAS](https://www.dropbox.com/scl/fo/t8svh9fr6accnldmibrjb/h?dl=0&rlkey=cfti7jwwtjzoxdzyn2l4v9ft9)
+- [East Asian and European meta analysis GWAS summary statistics](https://www.dropbox.com/s/gxe0pishq7assla/liu-2022-east-asian-gwas.tar.gz?dl=0)
 
 ##### Old
 - {{% staticref "uploads/gwas_ichip_meta_release.txt.gz" "newtab" %}}Combined GWAS and Immunochip summary statistics{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/the-international-ibd-genetics-consortium-iibdgc-hostmicrobe-2012" >}})
