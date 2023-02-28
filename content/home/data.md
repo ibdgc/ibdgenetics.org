@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Downloads
+title: Data
 subtitle: ''
 
 content:
@@ -47,7 +47,13 @@ design:
   flip_alt_rows: false
 ---
 
-### Datasets
+### IBDGC Data Commons
+This is the central, managed data repository for the International IBDGC. Hosted by the NIDDK member consortium, the Data Commons offers a secure and accessible platform to distribute and interact with restricted data products.
+
+- Access the Commons at ibdgc.datacommons.io
+- Documentation for the download/upload client [here](https://gen3.org/resources/user/cdis-client/).
+
+### Direct Links
 - [Latest combined GWAS and Immunochip trans-ancestry summary statistics](https://www.dropbox.com/s/ttuc6s7tv26voq3/iibdgc-trans-ancestry-filtered-summary-stats.tgz?dl=0)[$^{ref.}$]({{< relref "/publication/international-multiple-sclerosis-genetics-consortium-association-2015" >}}) [$^{ref.}$]({{< relref "/publication/international-inflammatory-bowel-disease-genetics-consortium-high-density-2015" >}})
 - [East Asian and European meta analysis GWAS summary statistics](https://www.dropbox.com/s/gxe0pishq7assla/liu-2022-east-asian-gwas.tar.gz?dl=0)
 
