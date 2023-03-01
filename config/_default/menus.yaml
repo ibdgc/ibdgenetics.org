@@ -8,8 +8,8 @@ main:
     url: '#about'
     weight: 10
     weight: 20
-  - name: Downloads
-    url: '#downloads'
+  - name: Data
+    url: '#data'
     weight: 30
   - name: Publications
     url: '#publications'
