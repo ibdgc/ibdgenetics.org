@@ -50,7 +50,7 @@ design:
 ### IBDGC Data Commons
 This is the central, managed data repository for the International IBDGC. Hosted by the NIDDK member consortium, the Data Commons offers a secure and accessible platform to distribute and interact with restricted data products.
 
-- Access the Commons at ibdgc.datacommons.io
+- Access the Commons at [ibdgc.datacommons.io](ibdgc.datacommons.io)
 - Documentation for the download/upload client [here](https://gen3.org/resources/user/cdis-client/).
 
 ### Direct Links
