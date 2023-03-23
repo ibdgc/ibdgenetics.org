@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# this should be executed from the project directory
+
+docker run \
+    -it \
+    --entrypoint bash \
+    -v `pwd`:`pwd` \
+    -w `pwd` \
+    klakegg/hugo:0.88.1-ext-alpine-ci
+
