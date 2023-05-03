@@ -32,8 +32,6 @@ The mission of the IIBDGC is to (1) identify the genetic risk factors for the in
 
 Our current projects bring together genome-wide genotyping data and whole exome/whole genome sequencing data for over 75,000 patients with IBD. For more information on how to join the IIBDGC, please consult our Memorandum of Understanding (MOU).
 
-![](ibdgc_international.png)
-
 # Interested in joining?
 If you are already a well established IBD genetics group, please complete our online Memorandum of Understanding (MOU), see the links in the data section below.
 
