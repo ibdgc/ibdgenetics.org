@@ -56,8 +56,9 @@ We are over 100 researchers from different research teams, networks, and regiona
 | Andre Franke            | Institute of Clinical Molecular Biology (IKMB), Christian-Albrechts-University of Kiel                                     |
 | Anna Latiano            | Fondazione IRCCS Casa Sollievo della Sofferenza, Gastroenterology Unit                                                     |
 | Antonio Julià           | Rheumatology Research Group, Vall d'Hebron University Hospital, Barcelona, Spain                                           |
-| Bruce Sands             | Dr. Henry D. Janowitz Division of Gastroenterology, Icahn School of Medicine at Mount Sinai                                |
+| Bruce Sands             | Dr. Henry D. Janowitz Division of Gastroenterology, Icahn School of Medicine at Mount Sinai                                | 
 | Caren Heller            | Crohn's & Colitis Foundation                                                                                               |
+| Carl Anderson           | Wellcome Sanger Institute                                                                                                  |  
 | Charles Bernstein       | University of Manitoba IBD Clinical and Research Centre                                                                    |
 | Christopher Moran       | MassGeneral Hospital for Children                                                                                          |
 | David Ellinghaus        | Christian-Albrechts-University Kiel                                                                                        |
