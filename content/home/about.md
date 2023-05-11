@@ -58,7 +58,7 @@ We are over 100 researchers from different research teams, networks, and regiona
 | Antonio Julià           | Rheumatology Research Group, Vall d'Hebron University Hospital, Barcelona, Spain                                           |
 | Bruce Sands             | Dr. Henry D. Janowitz Division of Gastroenterology, Icahn School of Medicine at Mount Sinai                                | 
 | Caren Heller            | Crohn's & Colitis Foundation                                                                                               |
-| Carl Anderson           | Wellcome Sanger Institute                                                                                                  |  
+| Carl Anderson           | Wellcome Sanger Institute                                                                                                  | 
 | Charles Bernstein       | University of Manitoba IBD Clinical and Research Centre                                                                    |
 | Christopher Moran       | MassGeneral Hospital for Children                                                                                          |
 | David Ellinghaus        | Christian-Albrechts-University Kiel                                                                                        |
@@ -103,3 +103,32 @@ We are over 100 researchers from different research teams, networks, and regiona
 
 </details>
 
+<details>
+  <summary><strong>Management Committee</strong></summary>
+  
+| Name                    | Affiliation                                                                                                                |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Andre Franke            | Institute of Clinical Molecular Biology (IKMB), Christian-Albrechts-University of Kiel                                     |
+| Carl Anderson           | Wellcome Sanger Institute                                                                                                  | 
+| Charles Lees            | Centre for Genomic & Experimental Medicine MRC Institute of Genetics & Molecular Medicine University of Edinburgh          |
+| David Ellinghaus        | Christian-Albrechts-University Kiel                                                                                        |
+| Dermot Mcgovern         | Cedars-Sinai                                                                                                               |
+| Graham Radford-Smith    | QIMR Berghofer MRI                                                                                                         |
+| Hailiang Huang          | Broad Institute                                                                                                            |
+| Hakon Hakonarson        | Children's Hospital of Philadelphia                                                                                        |
+| Ian Lawrance            | The University of Western Australia                                                                                        |
+| John Rioux              | Montreal Heart Institute, Research Center                                                                                  |
+| Jonas Halfvarson        | Dept. Of Gastroenterology, Faculty of Medicine and Health, Örebro University                                               |
+| Judy Cho                | Icahn School of Medicine at Mount Sinai                                                                                    |
+| Laura Fachal            | Wellcome Sanger Institute                                                                                                  |
+| Mark Daly               | The Broad Institute                                                                                                        |
+| Mark Silverberg         | Mount Sinai Hospital, Toronto ON                                                                                           |
+| Mauro D'Amato           | Department of Medicine and Surgery, LUM University                                                                         |
+| Miles Parks             | Addenborookes Hospital                                                                                                     |
+| Richard H. Duerr        | Department of Medicine, University of Pittsburgh School of Medicine                                                        |
+| Rinse K. Weersma        | Dept of Gastroenterology and Hepatology, University of Groningen and University Medical Center Groningen, The Netherlands  |
+| Siew Chien Ng           | The Chinese University of Hong Kong                                                                                        |
+| Subramaniam Kugathasan  | Emory University                                                                                                           |
+| Vito Annese             | Department of Gastroenterology, Fakeeh University Hospital, Dubai, United Arab Emirates                                    |
+  
+</details>  
