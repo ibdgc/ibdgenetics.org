@@ -118,8 +118,6 @@ We are over 100 researchers from different research teams, networks, and regiona
 | Hakon Hakonarson        | Children's Hospital of Philadelphia                                                                                        |
 | Ian Lawrance            | The University of Western Australia                                                                                        |
 | Isabelle Cleynen        | Lab for complex genetics, Department of Human Genetics KU Leuven                                                           |
-| Hakon Hakonarson        | Children's Hospital of Philadelphia                                                                                        |
-| Hakon Hakonarson        | Children's Hospital of Philadelphia                                                                                        |
 | John Rioux              | Montreal Heart Institute, Research Center                                                                                  |
 | Jonas Halfvarson        | Dept. Of Gastroenterology, Faculty of Medicine and Health, Örebro University                                               |
 | Judy Cho                | Icahn School of Medicine at Mount Sinai                                                                                    |
