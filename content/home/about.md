@@ -126,7 +126,7 @@ We are over 100 researchers from different research teams, networks, and regiona
 | Mark Silverberg         | Mount Sinai Hospital, Toronto ON                                                                                           |
 | Mauro D'Amato           | Department of Medicine and Surgery, LUM University                                                                         |
 | Miles Parkes            | Addenborookes Hospital                                                                                                     |
-| Phil Schumm             | University of Chichago                                                                                                     |  
+| Phil Schumm             | University of Chicago                                                                                                      |  
 | Richard H. Duerr        | Department of Medicine, University of Pittsburgh School of Medicine                                                        |
 | Rinse K. Weersma        | Dept of Gastroenterology and Hepatology, University of Groningen and University Medical Center Groningen, The Netherlands  |
 | Siew Chien Ng           | The Chinese University of Hong Kong                                                                                        |
