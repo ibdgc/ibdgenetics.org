@@ -117,6 +117,7 @@ We are over 100 researchers from different research teams, networks, and regiona
 | Hailiang Huang          | Broad Institute                                                                                                            |
 | Hakon Hakonarson        | Children's Hospital of Philadelphia                                                                                        |
 | Ian Lawrance            | The University of Western Australia                                                                                        |
+| Isabelle Cleynen        | Lab for complex genetics, Department of Human Genetics KU Leuven                                                           |
 | John Rioux              | Montreal Heart Institute, Research Center                                                                                  |
 | Jonas Halfvarson        | Dept. Of Gastroenterology, Faculty of Medicine and Health, Örebro University                                               |
 | Judy Cho                | Icahn School of Medicine at Mount Sinai                                                                                    |
@@ -124,7 +125,8 @@ We are over 100 researchers from different research teams, networks, and regiona
 | Mark Daly               | The Broad Institute                                                                                                        |
 | Mark Silverberg         | Mount Sinai Hospital, Toronto ON                                                                                           |
 | Mauro D'Amato           | Department of Medicine and Surgery, LUM University                                                                         |
-| Miles Parks             | Addenborookes Hospital                                                                                                     |
+| Miles Parkes            | Addenborookes Hospital                                                                                                     |
+| Phil Schumm             | University of Chicago                                                                                                      |  
 | Richard H. Duerr        | Department of Medicine, University of Pittsburgh School of Medicine                                                        |
 | Rinse K. Weersma        | Dept of Gastroenterology and Hepatology, University of Groningen and University Medical Center Groningen, The Netherlands  |
 | Siew Chien Ng           | The Chinese University of Hong Kong                                                                                        |
