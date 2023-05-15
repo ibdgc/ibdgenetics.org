@@ -54,10 +54,9 @@ This is the central, managed data repository for the International IBDGC. Hosted
 - Documentation for the high throughput command-line download/upload client found [here](https://gen3.org/resources/user/cdis-client/).
 
 # Summary Statistics
-Pre-release access to IIBDGC data products requires active participation in an MOU signatory research group and follows the distribution and sharing rules outlined in our DUA.
-
-## Pre-release
-- Fachal et. al. summary stats are expected April 2023
+{{% callout warning %}}
+Pre-release access to IIBDGC data products requires active participation in an MOU signatory research group and follows the distribution and sharing rules outlined in our [DUA](https://drive.google.com/file/d/10ZSvrUP2QKWwOv1XpeGk9AI9cn9dVbn2/view?usp=sharing). With that, pre-publication summary statistics should be treated as confidential.
+{{% /callout %}}
 
 ## Open Access
 - [Latest combined GWAS and Immunochip trans-ancestry summary statistics](https://www.dropbox.com/s/ttuc6s7tv26voq3/iibdgc-trans-ancestry-filtered-summary-stats.tgz?dl=0)[$^{ref.}$]({{< relref "/publication/international-multiple-sclerosis-genetics-consortium-association-2015" >}}) [$^{ref.}$]({{< relref "/publication/international-inflammatory-bowel-disease-genetics-consortium-high-density-2015" >}})
@@ -66,11 +65,26 @@ Pre-release access to IIBDGC data products requires active participation in an M
 - {{% staticref "uploads/cd-meta.txt.gz" "newtab" %}}Crohn's disease meta-analysis summary statistics{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/franke-genome-wide-2010" >}})
 - {{% staticref "uploads/ucmeta-sumstats.txt.gz" "newtab" %}}Ulcerative colitis meta-analysis summary statistics{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/anderson-meta-analysis-2011" >}})
 
+## Pre-release
+{{% callout note %}}
+Access Requirements:
+
+- signed DUA
+- member of MOU signatory group
+- project proposal NOT required
+{{% /callout %}}
+
+- Fachal et. al. GWAS EUR Tier1 Mega2
+    - [Summary Stats v1.0](https://ibdgc.datacommons.io/files/dg.EA80/582b6011-3337-476f-b645-0c68f86568ed)
+    - [Summary Stats v1.0 5e7 Filtered](https://ibdgc.datacommons.io/files/dg.EA80/ecfadc99-6f48-4d24-8227-df47b5a5c81f)
+    - [Terms of Use](https://ibdgc.datacommons.io/files/dg.EA80/eba5eea4-b830-4e0b-98cd-71dd475f16d6)
+    - {{% staticref "uploads/mega2-summary-file-manifest.json" "newtab" %}}Data Commons File Manifest{{% /staticref %}}
+
 # Forms
 - [Project Proposal Form](https://forms.gle/4oLAJ8Q5bf31p3Eh9)
 - [MOU Web Form](https://forms.gle/aMJQ6bou9cwZGiGy5)
 - {{% staticref "uploads/IIBDGC_MOU_28jan2019_with_bookmarks.pdf" "newtab" %}}Complete MOU{{% /staticref %}}
-- {{% staticref "uploads/ibdgc-dua-v2.1-clean.pdf" "newtab" %}}International DUA{{% /staticref %}}
+- [International DUA](https://drive.google.com/file/d/10ZSvrUP2QKWwOv1XpeGk9AI9cn9dVbn2/view?usp=sharing)
 
 **Memo of Understanding (MOU) Instructions:**
 
