@@ -36,7 +36,7 @@ Our current projects bring together genome-wide genotyping data and whole exome/
 If you are already a well established IBD genetics group, please complete our online Memorandum of Understanding (MOU), see the links in the data section below.
 
 # Need some help to join?
-If you are aspiring to contribute to this international effort to understand the genetic risk of IBD and its complications but are at the beginning of your journey, do not hesitate to reach out to us at contact@ibgenetics.org, and we will explore the ways in which the IIBDGC can help.
+If you are aspiring to contribute to this international effort to understand the genetic risk of IBD and its complications but are at the beginning of your journey, do not hesitate to reach out to us at contact@ibdgenetics.org, and we will explore the ways in which the IIBDGC can help.
 
 # Groups involved
 We are over 100 researchers from different research teams, networks, and regional consortia located across five continents.
