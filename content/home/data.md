@@ -76,9 +76,8 @@ Access Requirements:
 
 - Fachal et. al. GWAS EUR Tier1 Mega2
     - [Summary Stats v1.0](https://ibdgc.datacommons.io/files/dg.EA80/582b6011-3337-476f-b645-0c68f86568ed)
-    - [Summary Stats v1.0 5e7 Filtered](https://ibdgc.datacommons.io/files/dg.EA80/ecfadc99-6f48-4d24-8227-df47b5a5c81f)
+    - [Summary Stats v1.0 5e7 Filtered](https://ibdgc.datacommons.io/files/dg.EA80/4a144666-20c7-4895-b67a-548ca1c12d28)
     - [Terms of Use](https://ibdgc.datacommons.io/files/dg.EA80/eba5eea4-b830-4e0b-98cd-71dd475f16d6)
-    - {{% staticref "uploads/mega2-summary-file-manifest.json" "newtab" %}}Data Commons File Manifest{{% /staticref %}}
 
 # Forms
 - [Project Proposal Form](https://forms.gle/4oLAJ8Q5bf31p3Eh9)
