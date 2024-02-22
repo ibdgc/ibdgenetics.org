@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Data
-subtitle: ''
+subtitle: ""
 
 content:
   # Page type to display. E.g. project.
@@ -25,8 +25,8 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
+    - name: All
+      tag: "*"
 #  - name: Deep Learning
 #    tag: Deep Learning
 #  - name: Other
@@ -34,7 +34,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: "2"
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -47,40 +47,62 @@ design:
   flip_alt_rows: false
 ---
 
-# IBDGC Data Commons
-This is the central, managed data repository for the International IBDGC. Hosted by the NIDDK member consortium, the Data Commons offers a secure and accessible platform to distribute and interact with both pre-release and open access data products.
+# Hosting Platforms
 
-- Access the Commons at [ibdgc.datacommons.io](ibdgc.datacommons.io)
-- Documentation for the high throughput command-line download/upload client found [here](https://gen3.org/resources/user/cdis-client/).
+## Open Science Framework
+
+OSF is a publication-oriented content management system for collaboration and hosting of publication adjacent supplimentary content. This platform will serve as the first point of contact for most published data. The NIDDK group hosts a collection of OSF projects at:
+
+[osf.ibdgc.org](https://osf.ibdgc.org)
+
+## Globus
+
+Globus is a distributed data access and sharing platform that allows for movement of large data objects between compute environments with a simple graphical interface. Globus will be utilized in ad hoc data distribution cases where other methods make less sense.
+
+## Dataverse
+
+Currently under construction.
+
+Dataverse is an integrated data repository platform. We will be using this as the data back end to OSF for large content that requires programmatic interaction.
+
+## Data Commons
+
+The data commons has since been retired. All content previously hosted here is currently being migrated to Dataverse.
+
+---
 
 # Summary Statistics
+
 {{% callout warning %}}
-Pre-release access to IIBDGC data products requires active participation in an MOU signatory research group and follows the distribution and sharing rules outlined in our [DUA](https://drive.google.com/file/d/10ZSvrUP2QKWwOv1XpeGk9AI9cn9dVbn2/view?usp=sharing). With that, pre-publication summary statistics should be treated as confidential.
+Pre-release access to IIBDGC data products requires active participation in an MOU signatory group and follows the distribution and sharing rules outlined in our [DUA](https://drive.google.com/file/d/10ZSvrUP2QKWwOv1XpeGk9AI9cn9dVbn2/view?usp=sharing). All pre-publication content should be treated as strictly confidential.
 {{% /callout %}}
 
 ## Open Access
-- [Latest combined GWAS and Immunochip trans-ancestry summary statistics](https://www.dropbox.com/s/ttuc6s7tv26voq3/iibdgc-trans-ancestry-filtered-summary-stats.tgz?dl=0)[$^{ref.}$]({{< relref "/publication/international-multiple-sclerosis-genetics-consortium-association-2015" >}}) [$^{ref.}$]({{< relref "/publication/international-inflammatory-bowel-disease-genetics-consortium-high-density-2015" >}})
-- [East Asian and European meta analysis GWAS summary statistics](https://www.dropbox.com/s/gxe0pishq7assla/liu-2022-east-asian-gwas.tar.gz?dl=0)[$^{ref.}$]({{< relref "/publication/liu-genetic-2023" >}})
-- {{% staticref "uploads/gwas_ichip_meta_release.txt.gz" "newtab" %}}Combined GWAS and Immunochip summary statistics{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/the-international-ibd-genetics-consortium-iibdgc-hostmicrobe-2012" >}})
-- {{% staticref "uploads/cd-meta.txt.gz" "newtab" %}}Crohn's disease meta-analysis summary statistics{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/franke-genome-wide-2010" >}})
-- {{% staticref "uploads/ucmeta-sumstats.txt.gz" "newtab" %}}Ulcerative colitis meta-analysis summary statistics{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/anderson-meta-analysis-2011" >}})
 
-## Pre-release
+- [Latest combined GWAS and Immunochip trans-ancestry](https://www.dropbox.com/s/ttuc6s7tv26voq3/iibdgc-trans-ancestry-filtered-summary-stats.tgz?dl=0)[$^{ref.}$]({{< relref "/publication/international-multiple-sclerosis-genetics-consortium-association-2015" >}}) [$^{ref.}$]({{< relref "/publication/international-inflammatory-bowel-disease-genetics-consortium-high-density-2015" >}})
+- [East Asian and European meta analysis GWAS](https://www.dropbox.com/s/gxe0pishq7assla/liu-2022-east-asian-gwas.tar.gz?dl=0)[$^{ref.}$]({{< relref "/publication/liu-genetic-2023" >}})
+- {{% staticref "uploads/gwas_ichip_meta_release.txt.gz" "newtab" %}}Combined GWAS and Immunochip{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/the-international-ibd-genetics-consortium-iibdgc-hostmicrobe-2012" >}})
+- {{% staticref "uploads/cd-meta.txt.gz" "newtab" %}}Crohn's disease meta-analysis{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/franke-genome-wide-2010" >}})
+- {{% staticref "uploads/ucmeta-sumstats.txt.gz" "newtab" %}}Ulcerative colitis meta-analysis{{% /staticref %}} [$^{ref.}$]({{< relref "/publication/anderson-meta-analysis-2011" >}})
+
+## Restricted Pre-release
+
 {{% callout note %}}
 Access Requirements:
 
-- signed DUA
-- member of MOU signatory group
+- updated personnel on the "2024" tab of the [MOU Signatory Document](https://docs.google.com/spreadsheets/d/1ykB463JQDp9BPtG355gP5EGJLwzj3xCElqdkNMtyaKA/edit?usp=sharing)
+- submission of signed [DUA](https://drive.google.com/file/d/10ZSvrUP2QKWwOv1XpeGk9AI9cn9dVbn2/view?usp=sharing) to requests@ibdgenetics.org
 - project proposal NOT required
+
+All together, any individual making a request will need to be listed on the 2024 tab of the MOU Signatory document and have submitted a signed DUA.
 {{% /callout %}}
 
-- Fachal et. al. GWAS EUR Tier1 Mega2
-    - Summary Stats v1.0 ([gen3 client](https://gen3.org/resources/user/cdis-client/) download only)
-        - dg.EA80/582b6011-3337-476f-b645-0c68f86568ed
-    - [Summary Stats v1.0 5e7 Filtered](https://ibdgc.datacommons.io/files/dg.EA80/4a144666-20c7-4895-b67a-548ca1c12d28)
-    - [Terms of Use](https://ibdgc.datacommons.io/files/dg.EA80/f9934f08-6576-401e-837c-5787234abe20)
+- [Fachal et. al. GWAS EUR Tier1 Tier2 Mega2](https://osf.io/3vc8y/)
+
+---
 
 # Forms
+
 - [Project Proposal Form](https://forms.gle/4oLAJ8Q5bf31p3Eh9)
 - [MOU Web Form](https://forms.gle/aMJQ6bou9cwZGiGy5)
 - {{% staticref "uploads/IIBDGC_MOU_28jan2019_with_bookmarks.pdf" "newtab" %}}Complete MOU{{% /staticref %}}
@@ -99,6 +121,5 @@ All individuals seeking to access pre-publication summary statistics need to sub
 
 1. Download the form [here](https://drive.google.com/file/d/10ZSvrUP2QKWwOv1XpeGk9AI9cn9dVbn2/view?usp=sharing).
 1. Complete the document using a pdf editing tool (e.g. adobe acrobat, apple preview).
-    1. Initial the "IIBDGC Internal Use Only" appendix if applicable (i.e. when requesting access to pre-publication data).
-1. Send the signed copy to requests@ibdgc.org named **ibdgc-dua-v2.2_firstname-lastname.pdf**.
-
+   1. Initial the "IIBDGC Internal Use Only" appendix if applicable (i.e. when requesting access to pre-publication data).
+1. Send the signed copy to requests@ibdgenetics.org named **ibdgc-dua-v2.2_firstname-lastname.pdf**.
