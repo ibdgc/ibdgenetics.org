@@ -65,10 +65,6 @@ Currently under construction.
 
 Dataverse is an integrated data repository platform. We will be using this as the data back end to OSF for large content that requires programmatic interaction.
 
-## Data Commons
-
-The data commons has since been retired. All content previously hosted here is currently being migrated to Dataverse.
-
 ---
 
 # Summary Statistics
@@ -94,7 +90,7 @@ Access Requirements:
 - submission of signed [DUA](https://drive.google.com/file/d/10ZSvrUP2QKWwOv1XpeGk9AI9cn9dVbn2/view?usp=sharing) to requests@ibdgenetics.org
 - project proposal NOT required
 
-All together, any individual making a request will need to be listed on the 2024 tab of the MOU Signatory document and have submitted a signed DUA.
+Altogether, any individual making a request will need to be listed on the 2024 tab of the MOU Signatory document and have submitted a signed DUA.
 {{% /callout %}}
 
 - [Fachal et. al. GWAS EUR Tier1 Tier2 Mega2](https://osf.io/3vc8y/)
