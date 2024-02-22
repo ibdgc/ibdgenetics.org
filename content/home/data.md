@@ -65,10 +65,6 @@ Currently under construction.
 
 Dataverse is an integrated data repository platform. We will be using this as the data back end to OSF for large content that requires programmatic interaction.
 
-## Data Commons
-
-The data commons has since been retired. All content previously hosted here is currently being migrated to Dataverse.
-
 ---
 
 # Summary Statistics
