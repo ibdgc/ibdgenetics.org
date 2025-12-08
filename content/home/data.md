@@ -59,12 +59,6 @@ OSF is a publication-oriented content management system for collaboration and ho
 
 Globus is a distributed data access and sharing platform that allows for movement of large data objects between compute environments with a simple graphical interface. Globus will be utilized in ad hoc data distribution cases where other methods make less sense.
 
-## Dataverse
-
-Currently under construction.
-
-Dataverse is an integrated data repository platform. We will be using this as the data back end to OSF for large content that requires programmatic interaction.
-
 ---
 
 # Summary Statistics
@@ -86,12 +80,10 @@ Pre-release access to IIBDGC data products requires active participation in an M
 {{% callout note %}}
 Access Requirements:
 
-- updated personnel on the "2024" tab of the [MOU Signatory Document](https://docs.google.com/spreadsheets/d/1ykB463JQDp9BPtG355gP5EGJLwzj3xCElqdkNMtyaKA/edit?usp=sharing)
+- listed as personnel in the [MOU Signatory Document](https://docs.google.com/spreadsheets/d/1glLNBMpAao8HwG-zTpjO7bNQ5PZ7pIXJZFIhJTc5WXM/edit?usp=drive_link)
 - submission of signed [DUA](https://drive.google.com/file/d/10ZSvrUP2QKWwOv1XpeGk9AI9cn9dVbn2/view?usp=sharing) to requests@ibdgenetics.org
 - project proposal NOT required
-
-Altogether, any individual making a request will need to be listed on the 2024 tab of the MOU Signatory document and have submitted a signed DUA.
-{{% /callout %}}
+  {{% /callout %}}
 
 - [Fachal et. al. GWAS EUR Tier1 Tier2 Mega2](https://osf.io/3vc8y/)
 
